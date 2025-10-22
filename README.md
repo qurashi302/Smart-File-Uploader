@@ -8,7 +8,8 @@ Features:
 ✅ Automatic download link extraction
 ✅ Screenshot capture of upload result
 ✅ Logging of every action
-Language:Python 3.13
+Language:
+Python 3.13
 Framework:Selenium WebDriver
 Browser:Google Chrome
 Dependencies:selenium,webdriver-manager
@@ -17,3 +18,4 @@ Setup:
 Bash
 pip install -r requirements.txt
 python smart_uploader.py
+
